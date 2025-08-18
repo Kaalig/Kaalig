@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CB2E&center=true&width=435&lines=Nice+to+meet+you+i'm+Kalig.;Let's+make+our+world+a+better+place.)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visiter%20mon%20profil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adam-renar-1561b721a)
+
+
 <!--
 **Kaalig/Kaalig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
