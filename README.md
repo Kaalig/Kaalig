@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CB2E&center=true&width=435&lines=Nice+to+meet+you+i'm+Kalig.;Let's+make+our+world+a+better+place.)](https://git.io/typing-svg)
 
