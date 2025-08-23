@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CB2E&center=true&width=435&lines=Nice+to+meet+you+i'm+Kalig.;Let's+make+our+world+a+better+place.)](https://git.io/typing-svg)
 
-Welcome to this page ! I am Adam, a 26 years old aspiring bug bounty hunter from Paris, France. <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Drapeau Français" width="15" />
+Welcome  ! I am Adam, a 26 years old aspiring bug bounty hunter from Paris, France. <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Drapeau Français" width="15" />
 
-I am currently trying to learn as much as I can about Bug Hunting, but also about most of the **CTF**s categories, which include Forensics, Crypto, RE etc... I am really curious and interested in various kind of field, that is mostly IT related, but still interested in other areas of life.
+I am currently trying to learn as much as I can about Bug Hunting, but also about most of the **CTF**s categories, which include Forensics, Crypto, RE etc... I am really curious and interested in various kind of fields, that is mostly IT related, but still interested in other areas of life.
 
 #### - 🌱 Topics of current learning as of now :
 
