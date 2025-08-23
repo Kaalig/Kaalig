@@ -8,11 +8,9 @@ I am currently trying to learn as much as I can about Bug Hunting, but also abou
 
 #### - 🌱 Topics of current learning as of now :
 
-  **OSINT** : Google Dorking / Usage of Google Maps
+  **Bug Hunting** : DOM XSS / Blind SQLi / Subdomain Takeover
   
-  **Bug Hunting** : DOM XSS / Blind SQLi 
-  
-  **Forensics** : Steganography / Memory Analysis
+  **Python** : Fundamentals
 
 
 
