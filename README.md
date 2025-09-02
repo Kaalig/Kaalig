@@ -8,9 +8,8 @@ I am currently trying to learn as much as I can about Bug Hunting, but also abou
 
 #### - 🌱 Topics of current learning as of now :
 
-  **Bug Hunting** : DOM XSS / Blind SQLi / Subdomain Takeover
-  
-  **Python** : Fundamentals
+  - **Bug Hunting** : crt, Subdomain Takeover, XSS DOM
+  - **BASH** : Scripting & Automation
 
 
 
