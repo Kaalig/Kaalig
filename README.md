@@ -6,16 +6,6 @@ Welcome  ! I am Adam, a 26 years old aspiring bug bounty hunter from Paris, Fran
 
 I am currently trying to learn as much as I can about Bug Hunting, but also about most of the **CTF**s categories, which include Forensics, Crypto, RE etc... I am really curious and interested in various kind of fields, that is mostly IT related, but still interested in other areas of life.
 
-#### - 🌱 Topics of current learning as of now :
-
-  - **Bug Hunting** : Technical skills
-  - **BASH** : Scripting & Automation
-  - **Forensics** : Memory Forensics
-
-
-
-#### <img src="https://twemoji.maxcdn.com/v/latest/svg/26a0.svg" alt="Attention" width="15" /> *2025 : in search of comrades whom I can work and progress with, but also and most importantly : A  MENTOR. If it resonates with you, don't be shy and send me a message.* <img src="https://twemoji.maxcdn.com/v/latest/svg/26a0.svg" alt="Attention" width="15" />
-
 #### 📫 If you ever want to reach me for projects cooperation, internship, even simply some seek/give advices, here's my socials 📫 : 
 <a href="www.linkedin.com/in/adam-renar-1561b721a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn Badge" />
